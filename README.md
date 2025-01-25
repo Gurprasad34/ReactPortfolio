@@ -19,7 +19,6 @@ This React Portfolio project showcases my skills and work as a web developer. De
 ## Usage
 Access the live application deployed on Netlify: 
 [Portfolio](gurprasadreactportfolio.netlify.app)
-)
 
 
 
